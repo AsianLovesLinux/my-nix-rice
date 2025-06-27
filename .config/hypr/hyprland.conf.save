@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Hyprland
+Comment=An intelligent dynamic tiling Wayland compositor
+Exec=Hyprland
+Type=Application
+DesktopNames=Hyprland
+Keywords=tiling;wayland;compositor;
+
+#keybinds
+bind = SUPER, F, exec, librewolf
+bind = SUPER, E, exec, dolphin
+bind = SUPER, Q, killactive # Close window
+bind = SUPER, V, togglefloating # Toggle float
+bind = SUPER, exec, alacritty # Open Terminal
+bind = SUPER, D,
