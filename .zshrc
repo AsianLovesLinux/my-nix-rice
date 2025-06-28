@@ -1,5 +1,5 @@
 # ===== CORE SETTINGS ===== #
-export EDITOR=nano  # Default text editor
+export EDITOR=nvim  # Default text editor
 export HISTSIZE=10000  # Command history size
 export SAVEHIST=10000  # Saved history
 setopt INC_APPEND_HISTORY  # Write history after each command
